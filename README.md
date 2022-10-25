@@ -21,7 +21,6 @@ You can download the data for [dog breed](https://s3-us-west-1.amazonaws.com/uda
 4. `train_and_deploy.ipynb` is a submission script that can create Hyperparameter Tuning job, Training job and Endpoints.
 
 ## Hyperparameter Tuning
-What kind of model did you choose for this experiment and why? Give an overview of the types of parameters and their ranges used for the hyperparameter search
 I choose the VGG19 for this experiment since it is an advanced CNN with pre-trained layers and a great understanding of what defines an image in terms of shape, color, and structure.  
 
 ![hyperparameter-tuning](images/hyperparameter-tuning.png)
