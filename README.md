@@ -27,7 +27,7 @@ I choose the VGG19 for this experiment since it is an advanced CNN with pre-trai
 
 
 
-Below is the metrics during the training process in log file for the best estimator:
+Below is the metrics screen shot during the training process in log file for the best estimator:
 
 ![hpo-best-estimator-log](images/hpo-best-estimator-log.png)
 
